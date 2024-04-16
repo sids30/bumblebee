@@ -1,2 +1,2 @@
 # bumblebee
-BumbleBee. A Chabot using transformers.
+BumbleBee. A Chatbot using transformers.
