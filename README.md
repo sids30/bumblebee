@@ -1,2 +1,2 @@
-# bumblebee
-BumbleBee. A Chatbot using transformers.
+# DCBot
+DCBot. A Chatbot using RAG Transformers.
