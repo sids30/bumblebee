@@ -1,5 +1,5 @@
 # DCBot
-Welcome to the Durham College Chatbot. DCBot (Not affiliated)
+Welcome to the Durham College Chatbot. DCBot (Not affiliated).
 
 # Intro
 This is a chatbot created by implementing Langchain and Retrieval. DCBot uses my web-scraped data from a few of the Durham College web pages that its users frequently visit. I hope you like the results!
@@ -26,4 +26,7 @@ To install, go to your device's terminal or command line interface and type:
 
 - The retrieval process may take up to a minute sometimes if the question is long. Please be patient.
 
+
+# PS
+This was initially created as a final project for a Data Management course for AI. Please bear with me for future updates as this will be a side project of mine from now, till I can make it better and easily usable for others. My wish is to one day provide DCBot to Durham College as my first contribution since starting as a member of the amazing, selfless community of Python programming and AI.
   
