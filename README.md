@@ -15,14 +15,16 @@ Please install and import the following libraries to use DCBot:
 
 To install, go to your device's terminal or command line interface and type:
 
-# pip install langchain nltk pandas huggingface-hub
+# pip[3] install langchain nltk pandas huggingface-hub
 
 
 # Note
 
 - You must also have any of the dependencies to the above packages installed.
 
-- A HuggingFaceHub Read or Write token. Can be created using a free account on their website. Find it here after you have logged in "https://huggingface.co/settings/tokens".
+- Questions asked must be found within the scraped links, or the model will generate a general, often incorrect answer at the end of the retrieval chain. 
+
+- A HuggingFaceHub Read or Write token. It can be created using a free account on their website. Find it here after you have logged in "https://huggingface.co/settings/tokens".
 
 - The retrieval process may take up to a minute sometimes if the question is long. Please be patient.
 
